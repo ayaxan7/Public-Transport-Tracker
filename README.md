@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <strong>📸 Image</strong><br>
-      <img src="media/n8n.png" width="250" alt="Screenshot"/>
+      <img src="media/n8n.png" width="2500" height="5000 alt="Screenshot"/>
     </td>
     <!-- <td align="center">
       <strong>📸 Image</strong><br>
